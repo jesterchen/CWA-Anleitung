@@ -70,37 +70,37 @@ In der CWA können für einzelne Events und für feste Lokationen QR-Codes gener
 
 Um einen QR-Code zu erstellen, scrollt auf der Startseite nach unten und tippt auf "QR-Code erstellen":
 
-![](Lokationscodes\Screenshot_1636796302.png)
+![](Lokationscodes/Screenshot_1636796302.png)
 
 Lest hier die Hinweise am Start einmalig durch.
 
 Anfangs habt ihr keine Codes, also tippt auf die Schaltfläche "+ QR-Code". Wählt dann aus, was für einen Code ihr erstellen wollt - Eventcodes sind zeitlich begrenzt, Codes für Orte sind unbegrenzt:
 
-![](Lokationscodes\Screenshot_1636796313.png)
+![](Lokationscodes/Screenshot_1636796313.png)
 
 Gebt im Folgebildschirm die Details der Veranstaltung ein:
 
-![](Lokationscodes\Screenshot_1636796334.png)
+![](Lokationscodes/Screenshot_1636796334.png)
 
 Der QR-Code ist dann auf eurem Gerät gespeichert:
 
-![](Lokationscodes\Screenshot_1636796338.png)
+![](Lokationscodes/Screenshot_1636796338.png)
 
 Tippt ihr den Eintrag an, öffnet sich der QR-Code. Mittels "Druckversion anzeigen" könnt ihr eine PDF-Datei erstellen, die ihr ausdrucken und aufhängen könnt.
 
-![](Lokationscodes\Screenshot_1636796344.png)
-![](Lokationscodes\Screenshot_1636796351.png)
+![](Lokationscodes/Screenshot_1636796344.png)
+![](Lokationscodes/Screenshot_1636796351.png)
 
 [Frage an die Experten: wenn ich einen Code erstelle, lösche und dann mit denselben Daten wieder neu erstelle, sind die Codes dann identisch? Nutzungsfall beispielsweise: ich hatte den QR-Code für meine Kneipe nur auf dem Handy gespeichert, das aber defekt ist. Jetzt möchte ich den Code neu ausdrucken.]
 
 ## Einchecken
 Eincheck geht durch einfaches Scannen des QR-Codes. Es öffnet sich dieses Bild:
 
-![](Checkin\Screenshot_1636796586.png)
+![](Checkin/Screenshot_1636796586.png)
 
 Unter "Check-in" ist dann ein Eintrag zu finden, wo ihr euch wieder auschecken könnt:
 
-![](Lokationscodes\Screenshot_1636796432.png)
+![](Lokationscodes/Screenshot_1636796432.png)
 
 Leider ist es aktuell so, daß man ein automatisches Auschecken nicht verlängern kann.
  
@@ -114,36 +114,36 @@ t.b.d.
 # CovPass
 Die CovPass-App bietet die Möglichkeit, Test- und Impfzertifikate zu verwalten, ohne die erweiterten Funktionen der CWA zu bieten (Bluetooth-Messung, Tagebuch, ...). Nach dem ersten Start kommen verschiedene Hinweistexte, die ihr bitte einmalig lest. Danach wird gezeigt, daß ihr keine Zertifikate installiert habt. Um dies zu ändern tippt auf das Plus:
 
-![](CovPass\Screenshot_1636796856.png)
+![](CovPass/Screenshot_1636796856.png)
 
 Falls ihr keinen Sperrcode auf dem Telefon habt, werdet ihr jetzt daran erinnert, einen einzurichten, damit die Daten aus der App vor Unbefugten geschützt werden. Einmalig müßt ihr den Kamerazugriff erlauben. Wenn ihr dann ein Zertifikat einscannt, werden sofort die Details des Zertifikats angezeigt:
 
-![](CovPass\Screenshot_1636796983.png)
+![](CovPass/Screenshot_1636796983.png)
 
 Geht ihr zurück, gibt es die Übersicht aller Zertifikate. Auch in dieser App können Zertifikate mehrerer Personen verwendet werden:
 
-![](CovPass\Screenshot_1636796997.png)
+![](CovPass/Screenshot_1636796997.png)
 
   
 
 # CovPassCheck
 Die CovPass-Check-App wird benötigt, um die Gültigkeit von Zertifikaten zuverlässig zu überprüfen. Auch hier werdet ihr von einer Anleitung begrüßt, die ausnahmsweise hier komplett wiedergegeben wird:
 
-![](CovPass-Check\Screenshot_1636797062.png)
-![](CovPass-Check\Screenshot_1636797066.png)
+![](CovPass-Check/Screenshot_1636797062.png)
+![](CovPass-Check/Screenshot_1636797066.png)
 
-![](CovPass-Check\Screenshot_1636797069.png)
-![](CovPass-Check\Screenshot_1636797075.png)
+![](CovPass-Check/Screenshot_1636797069.png)
+![](CovPass-Check/Screenshot_1636797075.png)
 
 Die CovPass-Check-App kann auch ohne aktive Internetverbindung genutzt werden, muß dann aber regelmäßig mit dem Internet verbunden werden, um aktuelle Zertifikatsdaten herunterzuladen. Dies wird unten in der App angezeigt:
 
-![](CovPass-Check\Screenshot_1636797089.png)
+![](CovPass-Check/Screenshot_1636797089.png)
 
 Durch Antippen von "Zertifikat scannen" gelangt ihr in den Modus, mit dem ihr Zertifikate überprüfen könnt. Einmalig muß der Kamerazugriff genehmigt werden.
 
 Scannt damit ein Zertifikat. Dann werden euch Daten angezeigt, **die ihr mit einem Ausweisdokument abgleichen müßt**!
 
-![](CovPass-Check\Screenshot_1636797109.png)
+![](CovPass-Check/Screenshot_1636797109.png)
 
 
 
